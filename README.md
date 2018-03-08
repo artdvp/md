@@ -2,7 +2,7 @@
 
 ## Tech Stuff
 
-- [**IsStack**](isstack.md)
+- [**IStack**](istack.md)
 
 ## Read
 
@@ -15,6 +15,3 @@
 - [Linux Docker](linux-docker.md)
 - [Linux Nodejs](linux-node.md)
 - [Linux VsCode](linux-vscode.md)
-
-
-
