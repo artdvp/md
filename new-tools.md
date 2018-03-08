@@ -3,6 +3,7 @@
 ### Explorer
 
 - [Github Marketplace](https://github.com/marketplace) => Tools to build on and improve your workflow
+- [Jamstack](https://www.netlify.com/tags/jamstack/)
 
 ### Upload File
 
