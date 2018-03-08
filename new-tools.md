@@ -1,5 +1,9 @@
 ## New Library Tools
 
+### Explorer
+
+- [Github Marketplace](https://github.com/marketplace) => Tools to build on and improve your workflow
+
 ### Upload File
 
 - [FilePond](https://pqina.nl/filepond/) => Upload anything, from anywhere.
