@@ -7,8 +7,8 @@
 
 ### Newslatters
 
-- [New Dynamic](https://www.thenewdynamic.org/) => Build Faster Better Websites
-- [Smashingmagazine](https://www.smashingmagazine.com/) => Web Developer Magazine
+- [**New Dynamic**](https://www.thenewdynamic.org/) => Build Faster Better Websites
+- [**Smashingmagazine**](https://www.smashingmagazine.com/) => Web Developer Magazine
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### Continuous Integration
 
-- [Circleci](https://circleci.com/) => Automate your development process quickly, safely, and at scale.
+- [**Circleci**](https://circleci.com/) => Automate your development process quickly, safely, and at scale.
 
 ### Colors
 
@@ -27,9 +27,9 @@
 
 ### Collection Design Inspiration
 
-- [Designspiration](https://www.designspiration.net/)
+- [**Designspiration**](https://www.designspiration.net/)
 - [Muz](https://muz.li/)
-- [Dribbble](https://dribbble.com/) **
+- [**Dribbble**](https://dribbble.com/) **
 
 ### Design Tools
 
@@ -38,12 +38,12 @@
 
 ### Image Cloud
 
-- [Cloudinary](https://cloudinary.com/) => Image and Video Management in the Cloud
+- [**Cloudinary**](https://cloudinary.com/) => Image and Video Management in the Cloud
 
 ### JAMStack - CMS
 
 - [Graphcms](https://graphcms.com/) => You build essential GraphQL infrastructure for your digital products. We build a headless CMS for your content creators.
-- [NetlifyCMS](https://www.netlifycms.org/) => Open source content management for your Git workflow
+- [**NetlifyCMS**](https://www.netlifycms.org/) => Open source content management for your Git workflow
 - [Forestry](https://forestry.io/ ) => A static CMS that commits
 - [Prismic](https://prismic.io/) => One CMS Backend for all your Websites & Apps
 - [siteleaf](https://www.siteleaf.com/) => Built for developers, Loved by everyone
