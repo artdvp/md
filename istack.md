@@ -4,6 +4,7 @@
 
 - [Github Marketplace](https://github.com/marketplace) => Tools to build on and improve your workflow
 - [Jamstack](https://www.netlify.com/tags/jamstack/)
+- [Jamstack headlesscms](https://headlesscms.org/)
 
 ### Newslatters
 
@@ -43,10 +44,14 @@
 ### JAMStack - CMS
 
 - [Graphcms](https://graphcms.com/) => You build essential GraphQL infrastructure for your digital products. We build a headless CMS for your content creators.
-- [**NetlifyCMS**](https://www.netlifycms.org/) => Open source content management for your Git workflow
+- [NetlifyCMS](https://www.netlifycms.org/) => Open source content management for your Git workflow
 - [Forestry](https://forestry.io/ ) => A static CMS that commits
 - [Prismic](https://prismic.io/) => One CMS Backend for all your Websites & Apps
-- [siteleaf](https://www.siteleaf.com/) => Built for developers, Loved by everyone
+- [Siteleaf](https://www.siteleaf.com/) => Built for developers, Loved by everyone
+
+### JAMStack - Hosting
+
+- [Netlify](https://www.netlify.com/) => Write frontend code. Push it. We handle the rest
 
 ### JAMStack - Search
 
@@ -55,11 +60,14 @@
 
 ### JAMStack - Static site generator
 
+- [**Nuxt.js**](https://nuxtjs.org/) => Universal Vue.js Applications
+- [Gatsby](https://www.gatsbyjs.org/) => Blazing-fast static site generator for React
 - [gatsby-starter-gcn](https://github.com/ryanwiemer/gatsby-starter-gcn) => A starter template to build amazing static websites with Gatsby, Contentful and Netlify 
+- [Hugo](https://gohugo.io/) => The world’s fastest framework for building websites
 
 ### Mail Bussiness
 
-- [Mailchimp](https://mailchimp.com/) => Build your brand. Sell more stuff.
+- [**Mailchimp**](https://mailchimp.com/) => Build your brand. Sell more stuff.
 
 ### Project Manager
 
@@ -67,7 +75,7 @@
 
 ### Upload File
 
-- [FilePond](https://pqina.nl/filepond/) => Upload anything, from anywhere.
+- [FilePond](https://pqina.nl/filepond/) => JS Library : Upload anything, from anywhere.
 
 ---
 
@@ -86,5 +94,3 @@
 - http://www.universalmind.com/
 - https://www.digitalcontinuum.com/
 - https://www.designbetter.co/
-
-
